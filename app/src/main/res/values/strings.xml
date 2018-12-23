@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Time_organizer_app</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+
+    <string name="Title">Time visualizer</string>
+    <string name="Minutes">%2$dm</string>
+</resources>

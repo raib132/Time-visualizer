@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#f5f3f4</color>
+    <color name="Toolbar">#1976d2</color>
+    <color name="TabLayout">#63a4ff</color>
+    <color name="Blue_light">#039be5</color>
+    <color name="Fab">#1565C0</color>
+    <color name="chronometer">#0026ca</color>
+    <color name="white">#ffffff</color>
+    <color name="startBtn">#d50000</color>
+    <color name="restart_icon_color">#757575</color>
+    <color name="header">#ff5722</color>
+    <color name="black">#000000</color>
+    <color name="light_gray">#d3d3d3d3</color>
+    <color name="ChartWeb1">#707070</color>
+</resources>
